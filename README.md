@@ -1,4 +1,5 @@
 # Lifelong_Object_Recognition
+## Introduction
 Repo for competition track Lifelong Robotic Vision, IROS 2019.(Will update soon)
 [Link to model](https://drive.google.com/open?id=14qocNtQcRAR0ayfOLp6qM3L8mXl9a1Gc)
 
@@ -8,18 +9,28 @@ This task focused on new instance continual learning where number of classes acr
 
 There are various methods such as dynamic architectures, regulaization based methods and replay based methods. We propose replay based method.
 
-# Method
+## Requirements
+Pytorch 1.1
+Python 3.5
+numpy
+pandas
+PIL
+
+
+## Method
 
 Given below is the summary of the proposed algorithm. For details please refer to [abstract](https://drive.google.com/file/d/18uw3fSKgSXh_Uw8jm7reRtTuoeHP--pa/view)
 
 ![Algorithm](https://github.com/vidit98/Lifelong_Object_Recognition/blob/master/imgs/algo.png)
 
-# Results
+For running the code please follow the steps in README.txt
+
+## Results
 
 We achieved an mean accuracy of 97.01% at the end of 12th task.
 
 ![results](https://github.com/vidit98/Lifelong_Object_Recognition/blob/master/imgs/result.png)
 
-# Future Work
+## Future Work
 
 This method can be combined with other methods to further reduce the replay size such as synaptic intelligence. We can also think in the direction of latent space replay or psuedo image generations using GANs.

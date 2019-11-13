@@ -12,13 +12,13 @@ There are various methods such as dynamic architectures, regulaization based met
 
 Given below is the summary of the proposed algorithm. For details please refer to [abstract](https://drive.google.com/file/d/18uw3fSKgSXh_Uw8jm7reRtTuoeHP--pa/view)
 
-![Algorithm](https://drive.google.com/open?id=10qQI945cSNLUWorKf4t7N5wW-xCGjztX)
+![Algorithm](https://github.com/vidit98/Lifelong_Object_Recognition/blob/master/imgs/algo.png)
 
 # Results
 
 We achieved an mean accuracy of 97.01% at the end of 12th task.
 
-![results](https://drive.google.com/open?id=1gJfC-9vaGKtG4GJZAOE_pMSLaDpazMLP)
+![results](https://github.com/vidit98/Lifelong_Object_Recognition/blob/master/imgs/result.png)
 
 # Future Work
 

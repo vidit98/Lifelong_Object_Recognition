@@ -9,12 +9,14 @@ This task focused on new instance continual learning where number of classes acr
 
 There are various methods such as dynamic architectures, regulaization based methods and replay based methods. We propose replay based method.
 
+Dataset used is OpenLoris Dataset. Please refer to competition [website](https://lifelong-robotic-vision.github.io/competition/Object-Recognition.html) for getting the dataset.
+
 ## Requirements
-Pytorch 1.1
-Python 3.5
-numpy
-pandas
-PIL
+* Pytorch 1.1
+* Python 3.5
+* numpy
+* pandas
+* PIL
 
 
 ## Method

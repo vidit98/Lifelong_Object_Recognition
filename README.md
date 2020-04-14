@@ -1,6 +1,6 @@
 # Lifelong_Object_Recognition
 ## Introduction
-Repo for competition track Lifelong Robotic Vision, IROS 2019.(Will update soon)
+Code for Intelligent Replay Sampling for Lifelong Object Recognition, IROS 2019.
 [Link to model](https://drive.google.com/open?id=14qocNtQcRAR0ayfOLp6qM3L8mXl9a1Gc)
 
 Continual learning (CL) is the ability of a model to learn continually from a stream of data, building on what was learnt previously, hence exhibiting positive transfer, as well as being able to remember previously seen tasks. 
